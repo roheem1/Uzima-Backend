@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1553-issue-088-cache-leaderboard-results-safely",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1553-issue-088-cache-leaderboard-results-safely": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1553-issue-088-cache-leaderboard-results-safely",
+    "origin"
+  ]
+}
